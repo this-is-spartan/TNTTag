@@ -1,0 +1,6 @@
+name: TNTTag
+version: 0.0.1
+main: city.ahmeds.TNTTag.MainPlugin
+author: Vomet
+api-version: 1.14
+commands:
